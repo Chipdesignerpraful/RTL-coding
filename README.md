@@ -2,6 +2,7 @@
 
 Welcome to my Clock Divider Project repository! This project is designed to demonstrate the implementation of a clock divider using Verilog, accompanied by a comprehensive testbench for verification. Ideal for students, educators, and professionals interested in digital design and verification using SystemVerilog and Verilog.
 
+You can also read my Blog Post on here [Verilog code for Clock divider](https://logicflick.com/verilog-code-for-clock-divider/)
 ## Project Overview
 
 The clock divider is a fundamental component in digital electronics, used to reduce the frequency of a clock signal. This project provides a practical example of creating a scalable clock divider and includes a testbench for validating its functionality across different division factors.
